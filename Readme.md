@@ -57,6 +57,7 @@
 ###
 <h3 align="left">GitHub Stats</h3>
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajak13&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajak13&theme=dracula&hide_border=false" height="150" alt="streak stats" />
 </div>
 
