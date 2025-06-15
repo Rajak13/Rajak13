@@ -47,8 +47,7 @@
   I am passionate about data analysis, software development and enjoy working on web development projects. I am skilled in various programming languages and frameworks, including Python, JavaScript, React, HTML, CSS, and C++. I am always eager to learn new technologies and improve my skills to keep up with the current trends.
 </p>
 
-<h3 align="left">Projects</h3>
+<h3 align="left">My Portfolio</h3>
 <ul align="left">
-  <li><a href="https://github.com/Rajak13/project1">Project 1</a> - The project is a portfolio website made using react.</li>
-  <li><a href="https://github.com/Rajak13/project2">Project 2</a> - A second year project of mine showcasing my backend skills.</li>
+  <li><a href="https://rajak-portfolio.vercel.app/">Portfolio</a> - The is a portfolio website made using Next.js.</li>
 </ul>
