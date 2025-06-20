@@ -6,9 +6,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github.com/Rajak13/Rajak13/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ## 🚀 About Me
 
@@ -34,11 +31,6 @@ I'm a passionate **IT student** from **Nepal** 🇳🇵 with a deep love for tec
   <img src="https://github-readme-stats.vercel.app/api?username=Rajak13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&custom_title=Abdul's%20GitHub%20Stats" height="170" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajak13&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=10&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages" height="170" alt="languages graph" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rajak13&theme=radical&hide_border=true&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" height="170" alt="streak stats" />
-</div>
-
 ---
 
 ## 🛠️ Tech Arsenal
