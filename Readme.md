@@ -141,7 +141,7 @@ console.log(abdul.getCurrentWork());
 
 <div align="center">
 
-### 🌟 [Personal Portfolio Website](https://rajak-portfolio.vercel.app/)
+### 🌟 [Personal Portfolio Website](https://rajak.vercel.app)
 *A modern, responsive showcase of my work and skills*
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -168,7 +168,7 @@ console.log(abdul.getCurrentWork());
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajak01013)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajakansari833@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://rajak-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://rajak.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajak13)
 
 ### 💌 Open for opportunities in:
