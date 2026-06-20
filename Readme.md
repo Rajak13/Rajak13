@@ -1,226 +1,75 @@
-# Hi there! 👋 I'm Abdul Razzaq Ansari
+# Abdul Razzaq Ansari
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=60&lines=🇳🇵+IT+Student+from+Nepal;💻+Full+Stack+Developer;📊+Data+Analysis+Enthusiast;🚀+Always+Learning+New+Technologies;🎯+Building+Amazing+Projects)
+**React & Full-Stack Developer · Nepal 🇳🇵 · Open to Remote Work**
 
-</div>
-
-
-## 🚀 About Me
-
-I'm a passionate **IT student** from **Nepal** 🇳🇵 with a deep love for technology and innovation. I specialize in **software development**, **data analysis**, and **web development**. My journey in tech is driven by curiosity and the desire to create meaningful solutions that make a difference.
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-- 🔭 I'm currently working on **full-stack web applications**
-- 🌱 I'm learning **advanced data science** and **machine learning**  
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **web development, data analysis, or anything tech**
-- 📫 How to reach me: **abdul.razzaq.01013@gmail.com**
-- ⚡ Fun fact: **I love exploring new technologies and building creative projects**
-- 🎯 Goal: **Contributing to impactful tech solutions**
-
-<br clear="both">
+I build full-stack web applications with a focus on clean architecture, real-time features, and intuitive user experiences. Recent BSc Computing graduate with internship experience at Wabu Tech and a production-grade learning management platform under my belt.
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Featured Project
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajak13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&custom_title=Abdul's%20GitHub%20Stats" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajak13&locale=en&hide_title=false&layout=compact&card_width=340&langs_count=10&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages" height="170" alt="languages graph" />
-</div>
----
+### [Elevare — Learning Management Platform](https://github.com/Rajak13/elevare)
+> An all-in-one academic platform for students — built to production standards
 
-## 🛠️ Tech Arsenal
+**What it does:** Smart note-taking with AI summarization · Real-time study group collaboration · Task management · Multi-language support (English, Nepali, Korean) · Privacy-first admin dashboard
 
-### 💻 Programming Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cs,html,css,cpp" alt="Programming Languages" />
-</div>
+**Tech stack:**
 
-### 🚀 Frameworks & Libraries  
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,bootstrap,tailwind" alt="Frameworks" />
-</div>
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Python](https://img.shields.io/badge/Python_FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🛠️ Tools & Technologies
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mysql,mongodb,vercel,netlify" alt="Tools" />
-</div>
-
-### 🎯 Expertise Areas
-```yaml
-Frontend Development:
-  - Languages: [JavaScript, HTML5, CSS3]
-  - Frameworks: [React, Next.js]
-  - Styling: [Bootstrap, Tailwind CSS, Custom CSS]
-
-Backend Development:
-  - Runtime: [Node.js]
-  - Frameworks: [Express.js]
-  - APIs: [RESTful Services]
-
-Data Analysis:
-  - Languages: [Python, C#]
-  - Libraries: [Pandas, NumPy, Matplotlib]
-  - Visualization: [Charts, Graphs, Dashboards]
-
-Database Management:
-  - SQL: [MySQL]
-  - NoSQL: [MongoDB]
-  - Design: [Database Architecture, Optimization]
-
-Development Tools:
-  - Version Control: [Git, GitHub]
-  - Editors: [VS Code, Visual Studio]
-  - Design: [Figma, Adobe Tools]
-  - Deployment: [Vercel, Netlify]
-```
+**By the numbers:** 50,000+ lines of code · 100+ API endpoints · 30+ database tables · 100+ React components
 
 ---
 
-## 🎯 Current Focus & Goals
+## 🛠️ Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 💼 Experience
+
+**React Intern @ Wabu Tech** *(June – September 2025)*
+Built a family tree lineage management app — collaborative React/Next.js development, Git workflows, and component architecture.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-```javascript
-class AbdulRazzaqAnsari {
-  constructor() {
-    this.name = "Abdul Razzaq Ansari";
-    this.location = "Nepal 🇳🇵";  
-    this.role = "IT Student & Developer";
-    this.currentlyLearning = [
-      "Advanced React Patterns",
-      "Machine Learning & AI", 
-      "Cloud Computing (AWS/Azure)",
-      "Mobile App Development",
-      "DevOps & CI/CD"
-    ];
-  }
-
-  getCurrentWork() {
-    return [
-      "Building full-stack web applications",
-      "Contributing to open-source projects", 
-      "Exploring data science projects",
-      "Improving problem-solving skills"
-    ];
-  }
-
-  getSkills() {
-    return {
-      frontEnd: ["React", "Next.js", "HTML5", "CSS3", "JavaScript"],
-      backEnd: ["Node.js", "Express.js", "API Development"],
-      databases: ["MySQL", "MongoDB", "Database Design"],
-      dataAnalysis: ["Python", "Pandas", "NumPy", "Visualization"],
-      tools: ["Git", "VS Code", "Figma", "Vercel"],
-      softSkills: ["Problem Solving", "Team Collaboration", "Quick Learning"]
-    };
-  }
-
-  getDailyRoutine() {
-    return "Code → Learn → Build → Repeat 🔄";
-  }
-
-  getFunFact() {
-    return "I believe the best way to learn is by building real projects! 🚀";
-  }
-}
-
-const abdul = new AbdulRazzaqAnsari();
-console.log(abdul.getCurrentWork());
-```
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajak13&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajak13&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
 </div>
 
 ---
 
-## 💼 Featured Projects & Portfolio
+## 📬 Contact
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-razzaq-ansari-b45b8a397)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://rajak.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajakansari833@gmail.com)
 
-### 🌟 [Personal Portfolio Website][(https://portfolio-razzaq.vercel.app))]
-*A showcase of my work and skills*
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-**Key Features:**
-- 📱 Fully responsive design across all devices
-- ⚡ Lightning-fast performance with Next.js
-- 🎨 Modern UI/UX with smooth animations
-- 📊 Dynamic project showcase
-- 📧 Contact form integration
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-### 📱 Find me on social platforms
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajak01013)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajakansari833@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://rajak.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajak13)
-
-### 💌 Open for opportunities in:
-**Full Stack Development** • **Data Analysis** • **Open Source Contributions** • **Freelance Projects** • **Internships**
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajak13&theme=react-dark&hide_border=true&area=true&custom_title=Abdul's%20Contribution%20Graph" alt="Activity Graph" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajak13&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
-## 💡 Random Developer Wisdom
-
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
-
----
-
-## 🎵 Currently Vibing To
-<div align="center">
-  
-  *"First, solve the problem. Then, write the code."* – **John Johnson**
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 🌟 *"The best way to predict the future is to create it."* – Peter Drucker
-  
-  **Thanks for visiting my profile! Let's build something extraordinary together! 🚀**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Rajak13&color=FF6B6B&style=for-the-badge&label=Profile+Views)
-  [![GitHub Followers](https://img.shields.io/github/followers/Rajak13?style=for-the-badge&color=FF6B6B&labelColor=1c1c1c)](https://github.com/Rajak13)
-  [![GitHub Stars](https://img.shields.io/github/stars/Rajak13?style=for-the-badge&color=FF6B6B&labelColor=1c1c1c)](https://github.com/Rajak13)
-  
-</div>
+**Open to:** Remote frontend & full-stack roles · Freelance React projects · Junior developer positions
