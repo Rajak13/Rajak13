@@ -17,7 +17,7 @@ I'm a passionate **IT student** from **Nepal** 🇳🇵 with a deep love for tec
 - 🌱 I'm learning **advanced data science** and **machine learning**  
 - 👯 I'm looking to collaborate on **open-source projects**
 - 💬 Ask me about **web development, data analysis, or anything tech**
-- 📫 How to reach me: **rajakansari833@gmail.com**
+- 📫 How to reach me: **abdul.razzaq.01013@gmail.com**
 - ⚡ Fun fact: **I love exploring new technologies and building creative projects**
 - 🎯 Goal: **Contributing to impactful tech solutions**
 
@@ -141,8 +141,8 @@ console.log(abdul.getCurrentWork());
 
 <div align="center">
 
-### 🌟 [Personal Portfolio Website](https://rajak.vercel.app)
-*A modern, responsive showcase of my work and skills*
+### 🌟 [Personal Portfolio Website]((https://portfolio-razzaq.vercel.app))
+*A showcase of my work and skills*
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -208,8 +208,6 @@ console.log(abdul.getCurrentWork());
 <div align="center">
   
   *"First, solve the problem. Then, write the code."* – **John Johnson**
-  
-  **Fun Fact:** I code better with lo-fi beats! 🎧
   
 </div>
 
