@@ -1,7 +1,7 @@
-· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
-
 # Razzaq Ansari
+
 **Product Engineer · Nepal**
+
 
 I build things that work. Not just technically, but for the people
 using them. Full-stack, frontend-leaning, with a habit of caring
@@ -74,5 +74,3 @@ React Intern — Wabu Tech (2025) · built a family tree lineage app in a produc
 [abdul.razzaq.01013@gmail.com](mailto:abdul.razzaq.01013@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abdul-razzaq-ansari-b45b8a397) · [Portfolio](https://portfolio-razzaq.vercel.app)
 
 Open to remote frontend and full-stack roles.
-
-· · · · · · · · · · · · · · · · · · · · · · · · · · · · · · ·
