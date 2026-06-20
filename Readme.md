@@ -69,7 +69,7 @@ Built a family tree lineage management app — collaborative React/Next.js devel
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-razzaq-ansari-b45b8a397)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://rajak.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajakansari833@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://portfolio-razzaq.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdul.razzaq.01013@gmail.com)
 
 **Open to:** Remote frontend & full-stack roles · Freelance React projects · Junior developer positions
