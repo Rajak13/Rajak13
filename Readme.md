@@ -141,7 +141,7 @@ console.log(abdul.getCurrentWork());
 
 <div align="center">
 
-### 🌟 [Personal Portfolio Website]((https://portfolio-razzaq.vercel.app))
+### 🌟 [Personal Portfolio Website][(https://portfolio-razzaq.vercel.app))]
 *A showcase of my work and skills*
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
