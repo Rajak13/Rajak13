@@ -31,12 +31,11 @@ Parts, services, AI-powered health predictions — all in one place.
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**[Fretzel](https://github.com/Rajak13/fretzel)**
-Find your nearest futsal, book it, skip the confusion.
+**[JerseyHub](https://github.com/Rajak13/Jersey-Hub)**
+Find the best jerseys, customize it, skip the confusion.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
